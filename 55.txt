@@ -1,0 +1,17 @@
+Name: Razdolbaistroy
+Owner: Ostap Bender
+Phone number: 0565656566
+Address: Ukraine
+Occupation: Building
+Name: Gazkvasmyas
+Owner: Rabinovich
+Phone number: 0562222222
+Address: Ukraine
+Occupation: Study
+Name: OOO
+Owner: Unknown
+Phone number: 0563333333
+Address: Germany
+Occupation: Building
+Name: OOO
+Owner: Unknown2
